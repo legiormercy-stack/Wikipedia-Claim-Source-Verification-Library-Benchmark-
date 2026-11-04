@@ -3,3 +3,5 @@
 The aim of this project is to develop a gold-standard benchmark for claim verification using claims extracted from Wikipedia.
 
 The benchmark will consist of manually verified claims with documented evidence, labels, and reasoning. A supporting Python code will be added to help automate parts of the verification process and generate a larger dataset (referred to as the silver-standard/silver-tier.
+
+(Note that this is a work in progress. Do not treat as an end product, but rather a structure of what the end product will look lke.)
