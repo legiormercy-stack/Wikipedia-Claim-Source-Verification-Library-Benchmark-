@@ -15,11 +15,11 @@ To get more information on how the task should be carried out or how to decide w
 
 
 ## Data Structure 
-> Claim ID: 
-> Claim: 
-> Article: 
-> Source: 
-> Source Link: 
-> Verdict: 
-> Remark: 
-> Status: 
+- Claim ID: 
+- Claim: 
+- Article: 
+- Source: 
+- Source Link: 
+- Verdict: 
+- Remark: 
+- Status: 
