@@ -11,7 +11,7 @@ This purpose of this task is to create a dataset of manually verified claims tha
 7. **Remark:** This is a brief explanation on why you came to your verdict.
 8. **Status:** This is the final status of the claim verified. It can either be; Verified, Not Verified, or Inconclusive.
 
-To get more information on how the task should be carried out or how to decide which labels to use, kindly read the <a href="(https://github.com/legiormercy-stack/Wikipedia-Claim-Source-Verification-Library-Benchmark-/blob/main/docs/claim-verification-guidelines.md)">claim verification guidelines.</a>
+To get more information on how the task should be carried out or how to decide which labels to use, kindly read the <a href="https://github.com/legiormercy-stack/Wikipedia-Claim-Source-Verification-Library-Benchmark-/blob/main/docs/claim-verification-guidelines.md">claim verification guidelines.</a>
 
 
 ## Data Structure 
