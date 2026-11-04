@@ -1,5 +1,5 @@
 # Overview
-These are the guidelines used to verify the claims in the dataset. 
+These are the guidelines used to verify the claims in this dataset. 
 
 ## Guidelines
 1. Identify the claim/proposition you want to verify.
