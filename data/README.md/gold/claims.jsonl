@@ -1,1 +1,202 @@
-
+[
+  {
+    "Claim ID": 1,
+    "Claim": "In populations exhibiting sexual dimorphism, males tend to be slightly larger than females.",
+    "Article": "American Pika",
+    "Source": "Ochotona princeps",
+    "Source Link": "https://doi.org/10.2307/3504319",
+    "Verdict": "Supported",
+    "Remark": "The cited source states that intrapopulation sexual dimorphism in size, when present, is slight, with males larger than females.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 2,
+    "Claim": "Its notable features are suborbicular ears, densely furred feet with black pads at the toes, and a dense undercoat that provides insulation during winter months.",
+    "Article": "American Pika",
+    "Source": "NatureWorks - American Pika",
+    "Source Link": "https://natureworks.nhpbs.org/animals/american-pika/",
+    "Verdict": "Partially Supported",
+    "Remark": "The cited source highlights that the American Pika has large round ears, a small round body, peppery brown fur, and no visible tail. But it doesn't mention black pads on the toes and a dense undercoat that provides insulation during winter months.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 3,
+    "Claim": "The species has a relatively longer \"buried\" tail compared to most other lagomorphs, meaning that the tail is so short and densely covered with fur that it appears hidden within the animal's body fur rather than projecting outward.",
+    "Article": "American Pika",
+    "Source": "Ochotona princeps",
+    "Source Link": "https://doi.org/10.2307/3504319",
+    "Verdict": "Supported",
+    "Remark": "Even if the cited source does not explicitly explain that the tail is so short and densely covered with fur that it appears hidden within the animal's body fur rather than projecting outward. However, it is factually correct.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 4,
+    "Claim": "The American pika is found throughout the mountainous regions of western North America, ranging from central British Columbia and Alberta in Canada to the U.S. states of Oregon, Washington, Idaho, Montana, Wyoming, Colorado, Utah, Nevada, California, and New Mexico.",
+    "Article": "American Pika",
+    "Source": "American Pika",
+    "Source Link": "https://natureworks.nhpbs.org/animals/american-pika/",
+    "Verdict": "Not Supported",
+    "Remark": "The cited source does not mention the regions where the American Pika is found.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 5,
+    "Claim": "While in southern regions such as California and New Mexico, it is rarely found below 2,500 m (8,200 ft).",
+    "Article": "American Pika",
+    "Source": "Ochotona princeps",
+    "Source Link": "https://doi.org/10.2307/3504319",
+    "Verdict": "Supported",
+    "Remark": "However, the Cited source doesn't list any examples such as California or New Mexico.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 6,
+    "Claim": "Although pikas do not dig extensive burrows, they may enlarge existing crevices in the talus to create shelter.",
+    "Article": "American Pika",
+    "Source": "Ochotona princeps",
+    "Source Link": "https://doi.org/10.2307/3504319",
+    "Verdict": "Partially Supported",
+    "Remark": "The cited source supports that American Pikas do not dig burrows; however, it also specifies that they may be capable of enlarging den and nest sites beneath the talus, not in the talus.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 7,
+    "Claim": "When multiple males are present, females exhibit mate choice.",
+    "Article": "American Pika",
+    "Source": "Ochotona princeps",
+    "Source Link": "https://doi.org/10.2307/3504319",
+    "Verdict": "Supported",
+    "Remark": null,
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 8,
+    "Claim": "Lactation greatly depletes fat reserves, and a female will only raise a second litter if the first fails to survive, despite undergoing postpartum estrus.",
+    "Article": "American Pika",
+    "Source": "Ochotona princeps",
+    "Source Link": "https://doi.org/10.2307/3504319",
+    "Verdict": "Partially Supported",
+    "Remark": "The cited source states that lactation depletes fat reserves; it also explains that the females are only capable of weaning their second litter if the first litter is lost. The cited source states that most females wean one of the two litters, while the author states that females (implying all females) will only raise the second litter if the first one fails.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 9,
+    "Claim": "Their eyes open at around nine days of age.",
+    "Article": "American Pika",
+    "Source": "Ochotona princeps",
+    "Source Link": "https://doi.org/10.2307/3504319",
+    "Verdict": "Supported",
+    "Remark": "The cited source states that eyes of young open at an average of 9 days of age.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 10,
+    "Claim": "Juveniles become independent after about four weeks, coinciding with weaning.",
+    "Article": "American Pika",
+    "Source": "Ochotona princeps",
+    "Source Link": "https://doi.org/10.2307/3504319",
+    "Verdict": "Supported",
+    "Remark": "The cited source states that by the fourth week of age, the young are intolerant of and spend little time in contact with siblings and their mother, and weaning occurs as early as 3 to 4 weeks of age.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 11,
+    "Claim": "The arts have been classified into seven forms: painting, architecture, sculpture, literature, music, theatre, and filmmaking.",
+    "Article": "The Arts",
+    "Source": "What are the 7 Forms of Art? A Complete Overview",
+    "Source Link": "https://www.contemporaryartissue.com/what-are-the-7-forms-of-art-a-complete-overview/",
+    "Verdict": "Supported",
+    "Remark": "The cited source clearly lists out the seven forms of art as: Painting, Sculpture, Literature, Architecture, Theater, Film, and Music.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 12,
+    "Claim": "The inception of the term in the 1960s referred to a strict and focused practice of idea-based art that defied traditional visual criteria associated with the visual arts in its presentation as text.",
+    "Article": "The Arts",
+    "Source": "Paragraphs on Conceptual Art",
+    "Source Link": "https://web.archive.org/web/20200726100127/https://www.artforum.com/print/196706/paragraphs-on-conceptual-art-36719",
+    "Verdict": "Not Supported",
+    "Remark": "The cited source does not state that the term was incepted in the 1960s, nor does it mention it defying traditional visual criteria associated with the visual arts in its presentation as text. However, it mentions that the idea becomes the machine that makes the conceptual art.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 13,
+    "Claim": "The leading hypothesis is that it was formed by accretion from material loosed from Earth after a Mars-sized object with about 10% of Earth's mass, named Theia, collided with Earth.",
+    "Article": "Earth",
+    "Source": "Controversial Moon Origin Theory Rewrites History",
+    "Source Link": "https://web.archive.org/web/20100109042800/http://news.discovery.com/space/moon-earth-formation.html",
+    "Verdict": "Partially Supported",
+    "Remark": "The cited source does not clearly state that the moon was formed by accretion; however, it explicitly states that the moon was formed from red-hot debris left over after a Mars-sized object collided with Earth 4.5 billion years ago. It also does not state that the object was named Theia or was 10% of Earth's mass.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 14,
+    "Claim": "Earth's atmosphere and oceans were formed by volcanic activity and outgassing.",
+    "Article": "Earth",
+    "Source": "Earth's Early Atmosphere and Oceans",
+    "Source Link": "https://web.archive.org/web/20190708180329/https://www.lpi.usra.edu/education/timeline/gallery/slide_17.html",
+    "Verdict": "Partially Supported",
+    "Remark": "The cited source states that outgassing produced gases and water vapour, which later condensed to form part of Earth's oceans as the surface cooled. It doesn't explicitly state that the Earth's atmosphere was formed by Volcanic activity or outgassing, but it highlights that Comets may also have contributed water and complex organic molecules to Earth's environment.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 15,
+    "Claim": "The first modern atlas was the Theatrum Orbis Terrarum, published by Abraham Ortelius, which included a world map that depicted all of Earth's continents.",
+    "Article": "Exploration",
+    "Source": "Chapter 2 - Brief History of Land Use",
+    "Source Link": "https://web.archive.org/web/20221115002604/https://www.unccd.int/sites/default/files/2018-06/GLO%20English_Ch2.pdf",
+    "Verdict": "Supported",
+    "Remark": "The cited claim states that Abraham Ortelius produced what is generally regarded as the first modern atlas, known as the Theatrum Orbis Terrarum, a clearly discernible global map.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 16,
+    "Claim": "Space exploration is the use of astronomy and space technology to explore outer space",
+    "Article": "Exploration",
+    "Source": "How Space is Explored",
+    "Source Link": "https://web.archive.org/web/20090702153058/http://adc.gsfc.nasa.gov/adc/education/space_ex/exploration.html",
+    "Verdict": "Partially Supported",
+    "Remark": "The cited source does not explicitly state that Space exploration is the use of astronomy and space technology to explore outer space, but it highlights that Space was explored through ancient astronomy, and space exploration is broken down into three categories: astronomy, unmanned probes, and manned probes.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 17,
+    "Claim": "Bioluminescence is the production of light by an organism as the result of a chemiluminescence reaction.",
+    "Article": "Bioluminescence",
+    "Source": "Bioluminescence – The Vibrant Glow of Nature and its Chemical Mechanisms",
+    "Source Link": "https://doi.org/10.1002%2Fcbic.202400106",
+    "Verdict": "Supported",
+    "Remark": "The cited source states that Bioluminescence is a mesmerizing natural phenomenon where living organisms produce light through chemical reactions and is fundamentally a chemiluminescence reaction driven by enzymes in living organisms.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 18,
+    "Claim": "It has evolved independently 27 times within the ray-finned fishes.",
+    "Article": "Bioluminescence",
+    "Source": "Repeated and Widespread Evolution of Bioluminescence in Marine Fishes",
+    "Source Link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4898709",
+    "Verdict": "Partially Supported",
+    "Remark": "The cited source states that bioluminescence has evolved repeatedly and is phylogenetically widespread across ray-finned fishes. It also highlights 27 independent evolutionary events of bioluminescence, all among marine fish lineages. The cited source does not explicitly state that bioluminescence has evolved independently 27 times within the ray-finned fishes.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 19,
+    "Claim": "In sharks, it has evolved only once.",
+    "Article": "Bioluminescence",
+    "Source": "Illuminating the evolution of bioluminescence in sharks",
+    "Source Link": "https://doi.org/10.1111%2Fpala.12641",
+    "Verdict": "Supported",
+    "Remark": "The cited source states that bioluminescence evolved only once among sharks in a bathydemersal ancestor.",
+    "Status": "Verified"
+  },
+  {
+    "Claim ID": 20,
+    "Claim": "If the victims did not succumb to a heart attack, they would collapse from extreme exhaustion, hunger, and thirst.",
+    "Article": "Dancing Plague of 1518",
+    "Source": "What was the dancing plague of 1518?",
+    "Source Link": "https://www.history.com/news/what-was-the-dancing-plague-of-1518",
+    "Verdict": "Partially Supported",
+    "Remark": "The source cited states that the victims died of sheer exhaustion, strokes, or heart attacks. It did not mention victims dying of hunger or thirst.",
+    "Status": "Verified"
+  }
+]
