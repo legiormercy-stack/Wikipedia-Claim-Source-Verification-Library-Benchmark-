@@ -1,8 +1,10 @@
 # Overview
-This purpose of this task is to create a dataset of manually verified claims that could act as a gold-standard benchmark for the Wikipedia Claim Source Verification Library. All the claims in this dataset will be gotten from Wikipedia articles and the data set will be written using JSON schema. This task is important because it is imperative that claims are properly verified to avoid misinformation and to also readily identify ghost references made by AI bots. This dataset could also potentially become a guide to students, researchers or others looking to verify claims.
+This main purpose of this task is to create a dataset of manually verified claims that could act as a gold-standard benchmark for the Wikipedia Claim Source Verification Library. All the claims in this dataset will be gotten from Wikipedia articles and the data set will be written using JSON schema. The dataset will be divided into two parts; Gold-tier and Silver-tier. The Gold-tier dataset consists of manually verified claims, while the Silver-tier dataset will consist of claims verified using the Python automation code. 
+
+This task is important because it is imperative that claims are properly verified to avoid misinformation and to also readily identify ghost references caused by AI hallucinations. This dataset could also potentially become a guide to students, researchers or others looking to verify claims.
 
 ## Definition of Terms
-1. **Claim ID:** This is the identification number assigned to each claim. The claims will be arranged in chronological order, from first to last.
+1. **Claim ID:** This is the identification number assigned to each claim. Gold-tier dataset will have the tag 'WG', and all Silver-tier dataset will have the tag 'WS'. The claims will also be arranged in chronological order, from first to last. For example; WG_007, WS_032, e.t.c.
 2. **Claim:** This is the proposition to be verified.
 3. **Article:** This is the title of the Wikipedia article.
 4. **Source:** This is the title of the article cited.
