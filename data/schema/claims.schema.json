@@ -38,14 +38,14 @@
     },
 
     "Verdict": {
-  "type": ["string", "null"],
-  "enum": [
-    "supported",
-    "partially_supported",
-    "not_supported",
-    null
-  ]
-},
+      "type": ["string", "null"],
+      "enum": [
+        "supported",
+        "partially_supported",
+        "not_supported",
+        "null"
+      ]
+    },
 
     "Remark": {
       "type": "string"
