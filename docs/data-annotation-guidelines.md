@@ -6,8 +6,8 @@ This task is important because it is imperative that claims are properly verifie
 ## Definition of Terms
 1. **Claim ID:** This is the identification number assigned to each claim. Gold-tier dataset will have the tag 'WG', and all Silver-tier dataset will have the tag 'WS'. The claims will also be arranged in chronological order, from first to last. For example; WG_007, WS_032, e.t.c.
 2. **Claim:** This is the proposition to be verified.
-3. **Article:** This is the title of the Wikipedia article.
-4. **Source:** This is the title of the article cited.
+3. **Article:** This is the title of the Wikipedia article in which the claim was gotten.
+4. **Source:** This is the title of the article cited to back the claim.
 5. **Source link:** This is the link to the cited article.
 6. **Verdict:** This is measures if the source supports the claim or not. It can either be; Supported, Partially Supported or Not Supported.
 7. **Remark:** This is a brief explanation on why you came to your verdict.
