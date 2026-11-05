@@ -20,5 +20,7 @@ _Note that these rules are not a universal standard, however, they are the rules
 5. For claims with multiple sources, verify the claim against each source and record which parts of the claim is backed by each source or if every part of the claim is backed by each source. Also record which source(s) back the claim and the source(s) that don't
 6. A claim should not be refuted simply because its source is inaccessible.
 7. If the source contains evidence that contradicts the claim, record the contradiction and label it as 'not supported'.
+8. If a cited source does not support the claim, the claim should not be labelled 'supported' merely because a source is cited.
+
 
 Rules 1-3 were gotten from the decision framework section of this article; Garcia, M. B. (2026, November 4). How Do You Know Whether a Paper Actually Supports the Claim It Is Cited For? In Part 02: Finding What the  Literature Really Says. The Researcher's Field Guide. https://manuelgarcia.info/guides/research/guide/paper-supports-cited-claim   
