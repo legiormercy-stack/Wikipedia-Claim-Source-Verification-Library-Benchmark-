@@ -1,1 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Wikipedia Claim Verification Dataset",
+  "description": "Schema for storing Wikipedia claims and their verification records.",
+  "type": "object",
 
+  "required": [
+    "Claim_ID",
+    "Claim",
+    "Article",
+    "Source",
+    "Source Link",
+    "Verdict",
+    "Remark",
+    "Status"
+  ],
+
+  "properties": {
+    "Claim_ID": {
+      "type": "string"
+    },
+
+    "Claim": {
+      "type": "string"
+    },
+
+    "Article": {
+      "type": "string"
+    },
+
+    "Source": {
+      "type": "string"
+    },
+
+    "Source Link": {
+      "type": "string",
+      "format": "uri"
+    },
+
+    "Verdict": {
+  "type": ["string", "null"],
+  "enum": [
+    "supported",
+    "partially_supported",
+    "not_supported",
+    null
+  ]
+},
+
+    "Remark": {
+      "type": "string"
+    },
+
+    "Status": {
+      "type": "string"
+    }
+}
