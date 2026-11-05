@@ -1,6 +1,6 @@
 [
   {
-    "Claim ID": WIKI001,
+    "Claim ID": 001,
     "Claim": "In populations exhibiting sexual dimorphism, males tend to be slightly larger than females.",
     "Article": "American Pika",
     "Source": "Ochotona princeps",
@@ -10,7 +10,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-002,
+    "Claim ID": 002,
     "Claim": "Its notable features are suborbicular ears, densely furred feet with black pads at the toes, and a dense undercoat that provides insulation during winter months.",
     "Article": "American Pika",
     "Source": "NatureWorks - American Pika",
@@ -20,7 +20,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-003,
+    "Claim ID": 003,
     "Claim": "The species has a relatively longer \"buried\" tail compared to most other lagomorphs, meaning that the tail is so short and densely covered with fur that it appears hidden within the animal's body fur rather than projecting outward.",
     "Article": "American Pika",
     "Source": "Ochotona princeps",
@@ -30,7 +30,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-004,
+    "Claim ID": 004,
     "Claim": "The American pika is found throughout the mountainous regions of western North America, ranging from central British Columbia and Alberta in Canada to the U.S. states of Oregon, Washington, Idaho, Montana, Wyoming, Colorado, Utah, Nevada, California, and New Mexico.",
     "Article": "American Pika",
     "Source": "American Pika",
@@ -40,7 +40,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-005,
+    "Claim ID": 005,
     "Claim": "While in southern regions such as California and New Mexico, it is rarely found below 2,500 m (8,200 ft).",
     "Article": "American Pika",
     "Source": "Ochotona princeps",
@@ -50,7 +50,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-006,
+    "Claim ID": 006,
     "Claim": "Although pikas do not dig extensive burrows, they may enlarge existing crevices in the talus to create shelter.",
     "Article": "American Pika",
     "Source": "Ochotona princeps",
@@ -60,7 +60,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-007,
+    "Claim ID": 007,
     "Claim": "When multiple males are present, females exhibit mate choice.",
     "Article": "American Pika",
     "Source": "Ochotona princeps",
@@ -70,7 +70,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID":WIKI-008,
+    "Claim ID": 008,
     "Claim": "Lactation greatly depletes fat reserves, and a female will only raise a second litter if the first fails to survive, despite undergoing postpartum estrus.",
     "Article": "American Pika",
     "Source": "Ochotona princeps",
@@ -80,7 +80,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-009,
+    "Claim ID": 009,
     "Claim": "Their eyes open at around nine days of age.",
     "Article": "American Pika",
     "Source": "Ochotona princeps",
@@ -90,7 +90,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-010,
+    "Claim ID": 010,
     "Claim": "Juveniles become independent after about four weeks, coinciding with weaning.",
     "Article": "American Pika",
     "Source": "Ochotona princeps",
@@ -100,7 +100,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-011,
+    "Claim ID": 011,
     "Claim": "The arts have been classified into seven forms: painting, architecture, sculpture, literature, music, theatre, and filmmaking.",
     "Article": "The Arts",
     "Source": "What are the 7 Forms of Art? A Complete Overview",
@@ -110,7 +110,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-012,
+    "Claim ID": 012,
     "Claim": "The inception of the term in the 1960s referred to a strict and focused practice of idea-based art that defied traditional visual criteria associated with the visual arts in its presentation as text.",
     "Article": "The Arts",
     "Source": "Paragraphs on Conceptual Art",
@@ -120,7 +120,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-013,
+    "Claim ID": 013,
     "Claim": "The leading hypothesis is that it was formed by accretion from material loosed from Earth after a Mars-sized object with about 10% of Earth's mass, named Theia, collided with Earth.",
     "Article": "Earth",
     "Source": "Controversial Moon Origin Theory Rewrites History",
@@ -130,7 +130,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-014,
+    "Claim ID": 014,
     "Claim": "Earth's atmosphere and oceans were formed by volcanic activity and outgassing.",
     "Article": "Earth",
     "Source": "Earth's Early Atmosphere and Oceans",
@@ -140,7 +140,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-015,
+    "Claim ID": 015,
     "Claim": "The first modern atlas was the Theatrum Orbis Terrarum, published by Abraham Ortelius, which included a world map that depicted all of Earth's continents.",
     "Article": "Exploration",
     "Source": "Chapter 2 - Brief History of Land Use",
@@ -150,7 +150,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-016,
+    "Claim ID": 016,
     "Claim": "Space exploration is the use of astronomy and space technology to explore outer space",
     "Article": "Exploration",
     "Source": "How Space is Explored",
@@ -160,7 +160,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-017,
+    "Claim ID": 017,
     "Claim": "Bioluminescence is the production of light by an organism as the result of a chemiluminescence reaction.",
     "Article": "Bioluminescence",
     "Source": "Bioluminescence – The Vibrant Glow of Nature and its Chemical Mechanisms",
@@ -170,7 +170,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-018,
+    "Claim ID": 018,
     "Claim": "It has evolved independently 27 times within the ray-finned fishes.",
     "Article": "Bioluminescence",
     "Source": "Repeated and Widespread Evolution of Bioluminescence in Marine Fishes",
@@ -180,7 +180,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-019,
+    "Claim ID": 019,
     "Claim": "In sharks, it has evolved only once.",
     "Article": "Bioluminescence",
     "Source": "Illuminating the evolution of bioluminescence in sharks",
@@ -190,7 +190,7 @@
     "Status": "Verified"
   },
   {
-    "Claim ID": WIKI-020,
+    "Claim ID": 020,
     "Claim": "If the victims did not succumb to a heart attack, they would collapse from extreme exhaustion, hunger, and thirst.",
     "Article": "Dancing Plague of 1518",
     "Source": "What was the dancing plague of 1518?",
