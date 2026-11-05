@@ -16,8 +16,9 @@ _Note that these rules are not a universal standard, however, they are the rules
 1. If the claim is central to your research question, theoretical argument, or interpretation, read the cited source closely and verify the relevant information yourself.
 2. If a precise number, effect, prevalence estimate, or factual statement matters, locate the exact result in the cited source and confirm it.
 3. If the wording implies causation, generality, certainty or a strong effect, check whether the research design and findings justify that level of language.
-4. If only a part of the claim is backed up by the source, do not refute the claim. Instead label it as partially supported and record the parts backed by the source and the parts not backed by the source.
+4. If only a part of the claim is backed up by the source, do not refute the claim. Instead label it as 'partially supported' and record the parts backed by the source and the parts not backed by the source.
 5. For claims with multiple sources, verify the claim against each source and record which parts of the claim is backed by each source or if every part of the claim is backed by each source. Also record which source(s) back the claim and the source(s) that don't
 6. A claim should not be refuted simply because its source is inaccessible.
+7. If the source contains evidence that contradicts the claim, record the contradiction and label it as 'not supported'.
 
 Rules 1-3 were gotten from the decision framework section of this article; Garcia, M. B. (2026, November 4). How Do You Know Whether a Paper Actually Supports the Claim It Is Cited For? In Part 02: Finding What the  Literature Really Says. The Researcher's Field Guide. https://manuelgarcia.info/guides/research/guide/paper-supports-cited-claim   
